@@ -1,4 +1,13 @@
+# Eclipse Files #
 .classpath
 .project
 .settings/
 target/
+
+# Java Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
